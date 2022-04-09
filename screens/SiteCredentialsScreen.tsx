@@ -18,31 +18,38 @@ export const SiteCredentialsScreen = ({ navigation }: any) => {
         <Appbar.Content title="Site Credentials" />
       </Appbar.Header>
       <ScrollView style={{ padding: 16 }}>
-        {["Dice", "Monster", "StackOverflow", "Greenhouse"].map((name) => (
-          <List.Section style={{ paddingBottom: 10 }}>
-            <List.Subheader>{name}</List.Subheader>
-            <TextInput
-              mode="outlined"
-              label="Email"
-              value={text}
-              onChangeText={(text) => setText(text)}
-              style={{ marginBottom: 10 }}
-            />
-            <TextInput
-              mode="outlined"
-              label="Password"
-              value={text}
-              secureTextEntry
-              right={
-                <TextInput.Icon
-                  name="eye-off"
-                  color={DarkTheme.colors.placeholder}
-                />
-              }
-              onChangeText={(text) => setText(text)}
-            />
-          </List.Section>
-        ))}
+        <View
+          style={{
+            alignSelf: "center",
+            width: Dimensions.get("window").width < 800 ? "100%" : 800 - 64,
+          }}
+        >
+          {["Dice", "Monster", "StackOverflow", "Greenhouse"].map((name) => (
+            <List.Section style={{ paddingBottom: 10 }}>
+              <List.Subheader>{name}</List.Subheader>
+              <TextInput
+                mode="outlined"
+                label="Email"
+                value={text}
+                onChangeText={(text) => setText(text)}
+                style={{ marginBottom: 10 }}
+              />
+              <TextInput
+                mode="outlined"
+                label="Password"
+                value={text}
+                secureTextEntry
+                right={
+                  <TextInput.Icon
+                    name="eye-off"
+                    color={DarkTheme.colors.placeholder}
+                  />
+                }
+                onChangeText={(text) => setText(text)}
+              />
+            </List.Section>
+          ))}
+        </View>
       </ScrollView>
     </View>
   );

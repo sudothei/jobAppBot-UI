@@ -16,15 +16,22 @@ export const TotalApplicationsScreen = ({ navigation }: any) => {
         <Appbar.Content title="Total Applications" />
       </Appbar.Header>
       <ScrollView style={{ padding: 16 }}>
-        {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16].map(() => (
-          <List.Item
-            title="Software Engineer - Dell"
-            description="Aug 8, 2022"
-            left={(props: any) => (
-              <List.Icon {...props} icon="file-document-outline" />
-            )}
-          />
-        ))}
+        <View
+          style={{
+            alignSelf: "center",
+            width: Dimensions.get("window").width < 800 ? "100%" : 800 - 64,
+          }}
+        >
+          {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16].map(() => (
+            <List.Item
+              title="Software Engineer - Dell"
+              description="Aug 8, 2022"
+              left={(props: any) => (
+                <List.Icon {...props} icon="file-document-outline" />
+              )}
+            />
+          ))}
+        </View>
       </ScrollView>
     </View>
   );

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.0px"
+   height="9.0px"
+   viewBox="0 0 9.0 9.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+   inkscape:export-xdpi="318.85492"
+   inkscape:export-ydpi="318.85492"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview74"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="20.084302"
+     inkscape:cx="-1486.2852"
+     inkscape:cy="-611.34811"
+     inkscape:window-width="1882"
+     inkscape:window-height="1042"
+     inkscape:window-x="19"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     objecttolerance="20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid80" />
+  </sodipodi:namedview>
+  <defs
+     id="defs69">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter11494"
+       x="-0.0375"
+       y="-0.0375"
+       width="1.075"
+       height="1.075">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11484" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11486" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur11488" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset11490" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11492" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter11584"
+       x="-0.062500358"
+       y="-0.12605049"
+       width="1.1250007"
+       height="1.252101">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11574" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11576" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur11578" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset11580" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11582" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter11614"
+       x="-0.026785865"
+       y="-0.093749999"
+       width="1.0535717"
+       height="1.1875">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11604" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11606" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur11608" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset11610" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11612" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter11644"
+       x="-0.37500215"
+       y="-0.1875"
+       width="1.7500043"
+       height="1.375">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11634" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11636" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur11638" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset11640" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite11642" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter12011"
+       x="-0.078125448"
+       y="-0.078125002"
+       width="1.1562509"
+       height="1.15625">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12001" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12003" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur12005" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset12007" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12009" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4a148c;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;fill-opacity:1"
+       id="rect10499"
+       width="192"
+       height="192"
+       x="-1576.5"
+       y="-627"
+       rx="25"
+       ry="25"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:25.6;filter:url(#filter11494)"
+       id="rect127-1"
+       width="128"
+       height="128"
+       x="-1544.5"
+       y="-580.47998"
+       rx="6.4000001"
+       ry="6.4000001"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="rect127-1-3"
+       style="fill:#666666;fill-rule:evenodd;stroke-width:25.5999"
+       d="m -1544.4996,-461.3125 v 2.4325 c 0,3.5456 2.8544,6.4 6.4,6.4 h 115.1992 c 3.5456,0 6.4,-2.8544 6.4,-6.4 v -2.4325 c 0,3.47469 -2.8544,6.2725 -6.4,6.2725 h -115.1992 c -3.5456,0 -6.4,-2.79781 -6.4,-6.2725 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="rect127-1-3-6"
+       style="fill:#999999;fill-rule:evenodd;stroke-width:25.5999"
+       d="m -1544.4996,-571.52 v -2.4325 c 0,-3.5456 2.8544,-6.4 6.4,-6.4 h 115.1992 c 3.5456,0 6.4,2.8544 6.4,6.4 v 2.4325 c 0,-3.47469 -2.8544,-6.2725 -6.4,-6.2725 h -115.1992 c -3.5456,0 -6.4,2.79781 -6.4,6.2725 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.55998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1518.8001,-465.28 c -33.2799,-12.8 -15.36,-35.84 0,-25.6 15.3598,10.24 61.4396,10.24 76.7994,0 15.36,-10.24 33.2799,12.8 0,25.6 -15.3598,10.24 -61.4396,10.24 -76.7994,0 z"
+       id="path6329"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11614)"
+       id="rect324-3"
+       width="179.19899"
+       height="51.200001"
+       x="-1570.0995"
+       y="-554.88"
+       rx="25.599854"
+       ry="25.6"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="rect324-3-2"
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1569.9715,-531.84 c -0.083,0.84673 -0.128,1.70548 -0.128,2.575 0,-0.78256 0.043,-1.55544 0.128,-2.3175 z m -0.128,2.575 c 0,14.1824 11.4175,25.6 25.5999,25.6 h 127.9992 c 14.1824,0 25.5999,-11.4176 25.5999,-25.6 0,12.76416 -11.4175,23.04 -25.5999,23.04 h -127.9992 c -14.1824,0 -25.5999,-10.27584 -25.5999,-23.04 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="rect324-3-2-2"
+       style="fill:#333333;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1569.9715,-526.705 c -0.083,-0.84673 -0.128,-1.70548 -0.128,-2.575 0,0.78257 0.043,1.55544 0.128,2.3175 z m -0.128,-2.575 c 0,-14.1824 11.4175,-25.6 25.5999,-25.6 h 127.9992 c 14.1824,0 25.5999,11.4176 25.5999,25.6 0,-12.76416 -11.4175,-23.04 -25.5999,-23.04 h -127.9992 c -14.1824,0 -25.5999,10.27584 -25.5999,23.04 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="rect324"
+       style="fill:#d81b60;stroke-width:25.5999;fill-opacity:1"
+       d="m -1569.9746,-531.84 c -0.083,0.84191 -0.1254,1.69559 -0.1254,2.56 0,0.86441 0.042,1.71809 0.1254,2.56 h 178.9492 c 0.083,-0.84191 0.1254,-1.69559 0.1254,-2.56 0,-0.86441 -0.042,-1.71809 -0.1254,-2.56 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="path6329-2"
+       style="fill:#cccccc;fill-opacity:1;stroke:#333333;stroke-width:1.28;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1527.4527,-493.4175 c -11.7242,0.57687 -18.4848,17.7375 8.5551,28.1375 15.3598,10.24 61.4396,10.24 76.7994,0 33.2799,-12.8 15.36,-35.84 0,-25.6 -7.6798,5.12 -23.0398,7.68 -38.3997,7.68 -15.3599,0 -30.7199,-2.56 -38.3997,-7.68 -2.88,-1.92 -5.8494,-2.67063 -8.5551,-2.5375 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#ffffff;stroke-width:22.0776;filter:url(#filter11584)"
+       id="rect620"
+       width="76.799561"
+       height="38.079979"
+       x="-1518.8998"
+       y="-478.07999"
+       rx="2.5599854"
+       ry="1.9039989"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073"
+       width="25.599854"
+       height="2.5599999"
+       x="-1493.2003"
+       y="-444.56"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073-6"
+       width="25.599854"
+       height="2.5599999"
+       x="-1511.1202"
+       y="-449.67999"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073-6-7"
+       width="25.599854"
+       height="2.5599999"
+       x="-1475.2804"
+       y="-454.79999"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073-6-7-5"
+       width="25.599854"
+       height="2.5599999"
+       x="-1493.2003"
+       y="-459.92001"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073-6-7-5-3"
+       width="25.599854"
+       height="2.5599999"
+       x="-1475.2804"
+       y="-465.04001"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4073-6-7-5-3-5"
+       width="25.599854"
+       height="2.5599999"
+       x="-1511.1202"
+       y="-470.16"
+       rx="2.5599854"
+       ry="2.5599999"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.55998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11644)"
+       id="rect10857"
+       width="12.799927"
+       height="25.6"
+       x="-1486.8999"
+       y="-606.08002"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.81019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10857-6"
+       width="6.3999634"
+       height="25.6"
+       x="-1480.4"
+       y="-605.59998"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <ellipse
+       style="fill:#d81b60;fill-opacity:1;stroke:none;stroke-width:1.28;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter12011)"
+       id="path11149-0"
+       cx="-1480.5"
+       cy="-608.64001"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256"
+       rx="15.359912"
+       ry="15.36" />
+    <path
+       id="path11149-0-3"
+       style="fill:#b21750;fill-opacity:1;stroke:none;stroke-width:1.28;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1465.2157,-610.145 a 15.359912,15.36 0 0 1 -15.2849,14.305 15.359912,15.36 0 0 1 -15.2673,-14.08 15.359912,15.36 0 0 0 -0.092,1.28 15.359912,15.36 0 0 0 15.3599,15.36 15.359912,15.36 0 0 0 15.3599,-15.36 15.359912,15.36 0 0 0 -0.076,-1.505 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="path11149-0-3-6"
+       style="fill:#ff2072;fill-opacity:1;stroke:none;stroke-width:1.28;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1480.4997,-624 a 15.359912,15.36 0 0 0 -15.3599,15.36 15.359912,15.36 0 0 0 0.092,1.28 15.359912,15.36 0 0 1 15.2673,-14.08 15.359912,15.36 0 0 1 15.2849,13.85 15.359912,15.36 0 0 0 0.075,-1.05 15.359912,15.36 0 0 0 -15.3599,-15.36 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:11.392;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1525.2997,-483.2 c 25.5998,8.96 63.9996,8.96 89.5994,0"
+       id="path1896"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.15081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1480.4004,-483.2 v 12.416"
+       id="path6864"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.23958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1467.6206,-483.9696 1.3202,12.80248"
+       id="path6866"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.24678px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1454.8168,-486.1465 2.5925,13.19067"
+       id="path6868"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.23536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1493.8284,-483.98354 -1.3243,12.67456"
+       id="path6866-7"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.2468px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1506.6344,-486.28858 -2.5925,13.19067"
+       id="path6868-0"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.21893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1444.5896,-489.73925 9.0179,21.91554"
+       id="path6870"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.20894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1516.886,-489.90372 -9.0271,21.53575"
+       id="path6870-9"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.28px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1521.3601,-476.8 c 25.3922,8.15749 56.1132,8.90126 81.9194,0"
+       id="path7643"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+    <path
+       id="path11025"
+       style="fill:#ff2072;fill-opacity:1;stroke:none;stroke-width:1.28;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1480.4997,-624 a 15.359912,15.36 0 0 0 -15.3599,15.36 15.359912,15.36 0 0 0 0.092,1.28 15.359912,15.36 0 0 1 15.2673,-14.08 15.359912,15.36 0 0 1 15.2849,13.85 15.359912,15.36 0 0 0 0.075,-1.05 15.359912,15.36 0 0 0 -15.3599,-15.36 z"
+       inkscape:export-filename="/home/paige/Code/ApplyBot/assets/images/logo.png"
+       inkscape:export-xdpi="256"
+       inkscape:export-ydpi="256" />
+  </g>
+</svg>

@@ -22,7 +22,11 @@ const TotalApplicationsChart = () => {
           },
         ],
       }}
-      width={Dimensions.get("window").width - 32}
+      width={
+        Dimensions.get("window").width < 800
+          ? Dimensions.get("window").width - 32
+          : 800 - 64
+      }
       height={220}
       chartConfig={{
         backgroundColor: "#e26a00",
@@ -48,6 +52,7 @@ const TotalApplicationsChart = () => {
       bezier
       style={{
         borderRadius: 16,
+        alignSelf: "center",
       }}
     />
   );
@@ -110,29 +115,43 @@ export const DashboardScreen = ({ navigation }: any) => {
         <Appbar.Content title="Dashboard" />
         <Appbar.Action icon="dots-vertical" />
       </Appbar.Header>
-      <ScrollView style={{ padding: 16, paddingBottom: 100 }}>
+      <ScrollView
+        style={{
+          padding: 16,
+          paddingBottom: 100,
+        }}
+      >
         <TotalApplicationsChart />
-        <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-          <Title style={{ marginVertical: 16, fontSize: 40 }}>Total:</Title>
-          <Title style={{ marginVertical: 16, fontSize: 40 }}>230</Title>
-        </View>
-        <View>
-          {[
-            { siteName: "Dice", totalApps: Math.random() * 100 },
-            { siteName: "Monster", totalApps: Math.random() * 100 },
-            { siteName: "Greenhouse", totalApps: Math.random() * 100 },
-            { siteName: "StackOverflow", totalApps: Math.random() * 100 },
-            { siteName: "Indeed", totalApps: Math.random() * 100 },
-            { siteName: "LinkedIn", totalApps: Math.random() * 100 },
-          ].map((site) => (
-            <SiteControl site={site} />
-          ))}
+        <View
+          style={{
+            width: Dimensions.get("window").width < 800 ? "100%" : 800 - 64,
+            alignSelf: "center",
+          }}
+        >
+          <View
+            style={{ flexDirection: "row", justifyContent: "space-between" }}
+          >
+            <Title style={{ marginVertical: 16, fontSize: 40 }}>Total:</Title>
+            <Title style={{ marginVertical: 16, fontSize: 40 }}>230</Title>
+          </View>
+          <View>
+            {[
+              { siteName: "Dice", totalApps: Math.random() * 100 },
+              { siteName: "Monster", totalApps: Math.random() * 100 },
+              { siteName: "Greenhouse", totalApps: Math.random() * 100 },
+              { siteName: "StackOverflow", totalApps: Math.random() * 100 },
+              { siteName: "Indeed", totalApps: Math.random() * 100 },
+              { siteName: "LinkedIn", totalApps: Math.random() * 100 },
+            ].map((site) => (
+              <SiteControl site={site} />
+            ))}
+          </View>
         </View>
       </ScrollView>
       <FAB
         style={{
           position: "absolute",
-          marginVertical: 16,
+          margin: 32,
           right: 0,
           bottom: 0,
         }}
